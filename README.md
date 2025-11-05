@@ -1,21 +1,21 @@
 <div align="center">
   <img height="170x" src=https://avatars.githubusercontent.com/u/53411373?s=400&u=eaa8fa2c44957f320a85c43c5f5383855d23fc51&v=4/>
-  <h1>Privacy Coin</h1>
+  <h1>MertCash</h1>
 
   <p>
     <strong>Privacy-First Program Framework for Solana Ecosystem</strong>
   </p>
 
   <p>
-    <a href="https://Privacy Coin-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
-    <a href="https://discord.gg/Privacy Coin"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/Privacy Coin/Privacy Coin?color=blueviolet" /></a>
+    <a href="https://MertCash-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
+    <a href="https://discord.gg/MertCash"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
+    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/MertCash/MertCash?color=blueviolet" /></a>
   </p>
 </div>
 
-## What is Privacy Coin?
+## What is MertCash?
 
-Privacy Coin is a groundbreaking framework built for the Solana ecosystem, providing developers with seamless tools for writing privacy-focused programs and creating encrypted tokens that protect user transaction data while maintaining Solana's incredible speed and low costs.
+MertCash is a groundbreaking framework built for the Solana ecosystem, providing developers with seamless tools for writing privacy-focused programs and creating encrypted tokens that protect user transaction data while maintaining Solana's incredible speed and low costs.
 
 - **Unified Privacy API**: One codebase for encrypted transactions across Solana
 - **Private Token Creation**: Create SPL tokens with built-in encryption and zero-knowledge proofs
@@ -24,10 +24,10 @@ Privacy Coin is a groundbreaking framework built for the Solana ecosystem, provi
 - **TypeScript package**: Type-safe clients from IDL for encrypted communication
 - **CLI and workspace management**: Complete privacy-first application development
 
-Privacy Coin is the first framework to bring Zcash-style privacy to Solana, enabling truly private transactions at scale.
+MertCash is the first framework to bring Zcash-style privacy to Solana, enabling truly private transactions at scale.
 
 > [!NOTE]
-> Privacy Coin combines Solana's speed and affordability with enterprise-grade privacy. With 400ms block times, $0.00025 average transaction fees, and support for 65,000+ TPS, you get the performance you need with the privacy users deserve. If you're familiar with Anchor or native Solana development, you'll feel right at home with Privacy Coin's privacy-enhanced approach.
+> MertCash combines Solana's speed and affordability with enterprise-grade privacy. With 400ms block times, $0.00025 average transaction fees, and support for 65,000+ TPS, you get the performance you need with the privacy users deserve. If you're familiar with Anchor or native Solana development, you'll feel right at home with MertCash's privacy-enhanced approach.
 
 ## Key Features
 
@@ -40,13 +40,13 @@ Privacy Coin is the first framework to bring Zcash-style privacy to Solana, enab
 - **Lightning Fast**: Leverage Solana's 400ms block times and sub-second finality
 - **Ultra Low Fees**: Deploy and transact with ~$0.00025 median transaction fees
 
-## Why Solana & Privacy Coin?
+## Why Solana & MertCash?
 
 ### Solana (2025 Performance)
 Solana continues to lead in performance with 400ms block times, processing over 65,000 transactions per second at peak, with average fees remaining under $0.001. The network handles millions of daily transactions with consistent sub-second finality.
 
-### Privacy Coin - Privacy for Solana
-Privacy Coin leverages Solana's infrastructure to provide:
+### MertCash - Privacy for Solana
+MertCash leverages Solana's infrastructure to provide:
 - **Zero-Knowledge Architecture**: Built on proven ZK-SNARK technology
 - **Full SPL Compatibility**: Private versions of any SPL token
 - **Solana Ecosystem Integration**: Seamless interaction with existing Solana programs
@@ -54,23 +54,23 @@ Privacy Coin leverages Solana's infrastructure to provide:
 
 ## Getting Started
 
-For a quickstart guide and in-depth tutorials, see the [Privacy Coin book](https://book.Privacy Coin-lang.com) and the [Privacy Coin documentation](https://Privacy Coin-lang.com).
+For a quickstart guide and in-depth tutorials, see the [MertCash book](https://book.MertCash-lang.com) and the [MertCash documentation](https://MertCash-lang.com).
 
-To jump straight to examples, go [here](https://github.com/Privacy Coin/Privacy Coin/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/Privacy Coin-lang) and the [typedoc](https://www.Privacy Coin-lang.com/docs/clients/typescript).
+To jump straight to examples, go [here](https://github.com/MertCash/MertCash/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/MertCash-lang) and the [typedoc](https://www.MertCash-lang.com/docs/clients/typescript).
 
 ## Packages
 
 | Package                 | Description                                              | Version                                                                                                                          | Docs                                                                                                            |
 | :---------------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| `Privacy Coin-lang`           | Rust primitives for writing privacy-preserving programs         | [![Crates.io](https://img.shields.io/crates/v/Privacy Coin-lang?color=blue)](https://crates.io/crates/Privacy Coin-lang)                     | [![Docs.rs](https://docs.rs/Privacy Coin-lang/badge.svg)](https://docs.rs/Privacy Coin-lang)                                |
-| `Privacy Coin-spl`            | CPI clients for private SPL tokens and standards | [![crates](https://img.shields.io/crates/v/Privacy Coin-spl?color=blue)](https://crates.io/crates/Privacy Coin-spl)                          | [![Docs.rs](https://docs.rs/Privacy Coin-spl/badge.svg)](https://docs.rs/Privacy Coin-spl)                                  |
-| `Privacy Coin-client`         | Rust client for Privacy Coin privacy programs              | [![crates](https://img.shields.io/crates/v/Privacy Coin-client?color=blue)](https://crates.io/crates/Privacy Coin-client)                    | [![Docs.rs](https://docs.rs/Privacy Coin-client/badge.svg)](https://docs.rs/Privacy Coin-client)                            |
-| `@Privacy Coin/sdk`           | TypeScript client for Privacy Coin programs                    | [![npm](https://img.shields.io/npm/v/@Privacy Coin/sdk.svg?color=blue)](https://www.npmjs.com/package/@Privacy Coin/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Privacy Coin.github.io/Privacy Coin/ts/index.html)        |
-| `@Privacy Coin/cli`           | CLI to support building and managing private apps    | [![npm](https://img.shields.io/npm/v/@Privacy Coin/cli.svg?color=blue)](https://www.npmjs.com/package/@Privacy Coin/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Privacy Coin.github.io/Privacy Coin/cli/commands.html)    |
+| `MertCash-lang`           | Rust primitives for writing privacy-preserving programs         | [![Crates.io](https://img.shields.io/crates/v/MertCash-lang?color=blue)](https://crates.io/crates/MertCash-lang)                     | [![Docs.rs](https://docs.rs/MertCash-lang/badge.svg)](https://docs.rs/MertCash-lang)                                |
+| `MertCash-spl`            | CPI clients for private SPL tokens and standards | [![crates](https://img.shields.io/crates/v/MertCash-spl?color=blue)](https://crates.io/crates/MertCash-spl)                          | [![Docs.rs](https://docs.rs/MertCash-spl/badge.svg)](https://docs.rs/MertCash-spl)                                  |
+| `MertCash-client`         | Rust client for MertCash privacy programs              | [![crates](https://img.shields.io/crates/v/MertCash-client?color=blue)](https://crates.io/crates/MertCash-client)                    | [![Docs.rs](https://docs.rs/MertCash-client/badge.svg)](https://docs.rs/MertCash-client)                            |
+| `@MertCash/sdk`           | TypeScript client for MertCash programs                    | [![npm](https://img.shields.io/npm/v/@MertCash/sdk.svg?color=blue)](https://www.npmjs.com/package/@MertCash/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://MertCash.github.io/MertCash/ts/index.html)        |
+| `@MertCash/cli`           | CLI to support building and managing private apps    | [![npm](https://img.shields.io/npm/v/@MertCash/cli.svg?color=blue)](https://www.npmjs.com/package/@MertCash/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://MertCash.github.io/MertCash/cli/commands.html)    |
 
 ## Note
 
-- **Privacy Coin is in active development, so all APIs are subject to change.**
+- **MertCash is in active development, so all APIs are subject to change.**
 - **This code is unaudited. Use at your own risk.**
 
 ## Examples
@@ -78,8 +78,8 @@ To jump straight to examples, go [here](https://github.com/Privacy Coin/Privacy 
 Here's a private counter program that maintains an encrypted count, where only the designated `authority` can increment and view the real value:
 
 ```rust
-use Privacy Coin_lang::prelude::*;
-use Privacy Coin_lang::privacy::*;
+use MertCash_lang::prelude::*;
+use MertCash_lang::privacy::*;
 
 declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 
@@ -177,23 +177,23 @@ pub enum ErrorCode {
 
 ```bash
 # Create a private SPL token with encrypted balances
-Privacy Coin token create --name "PrivateToken" --symbol "PVTK" --privacy shielded
+MertCash token create --name "PrivateToken" --symbol "PVTK" --privacy shielded
 
 # Deploy with privacy features
-Privacy Coin deploy --privacy-level high
+MertCash deploy --privacy-level high
 
 # Create shielded addresses
-Privacy Coin address generate --type shielded
+MertCash address generate --type shielded
 
 # Send encrypted transaction
-Privacy Coin transfer --to <shielded-address> --amount 100 --private
+MertCash transfer --to <shielded-address> --amount 100 --private
 ```
 
 ### Private Token Transfer Example
 
 ```rust
-use Privacy Coin_lang::prelude::*;
-use Privacy Coin_spl::private_token::*;
+use MertCash_lang::prelude::*;
+use MertCash_spl::private_token::*;
 
 declare_id!("PrivateTokenProgram111111111111111111111111");
 
@@ -242,11 +242,11 @@ mod private_transfer {
 }
 ```
 
-For more, see the [examples](https://github.com/Privacy Coin/Privacy Coin/tree/master/examples) and [tests](https://github.com/Privacy Coin/Privacy Coin/tree/master/tests) directories.
+For more, see the [examples](https://github.com/MertCash/MertCash/tree/master/examples) and [tests](https://github.com/MertCash/MertCash/tree/master/tests) directories.
 
 ## Architecture
 
-Privacy Coin uses a privacy-first runtime that integrates cryptographic primitives directly into Solana programs. The framework handles:
+MertCash uses a privacy-first runtime that integrates cryptographic primitives directly into Solana programs. The framework handles:
 
 - **Zero-Knowledge Proofs**: Generate and verify ZK-SNARKs for private transactions
 - **Encrypted State**: Store sensitive data on-chain with homomorphic encryption
@@ -257,7 +257,7 @@ Privacy Coin uses a privacy-first runtime that integrates cryptographic primitiv
 
 ## Privacy Technology
 
-Privacy Coin implements multiple privacy-preserving techniques:
+MertCash implements multiple privacy-preserving techniques:
 
 ### Zero-Knowledge Proofs
 - **ZK-SNARKs**: Succinct non-interactive arguments of knowledge
@@ -307,7 +307,7 @@ Privacy Coin implements multiple privacy-preserving techniques:
 - **Confidential Voting**: Anonymous governance participation
 - **Selective Disclosure**: Compliance and audit capabilities
 
-## Why Choose Privacy Coin?
+## Why Choose MertCash?
 
 ### For Developers
 - **Familiar Tools**: Built on Anchor and Solana standards
@@ -332,26 +332,26 @@ Privacy Coin implements multiple privacy-preserving techniques:
 
 ## License
 
-Privacy Coin is licensed under [Apache 2.0](./LICENSE).
+MertCash is licensed under [Apache 2.0](./LICENSE).
 
-Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Privacy Coin by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in MertCash by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
 
 ## Contribution
 
-Thank you for your interest in contributing to Privacy Coin!
+Thank you for your interest in contributing to MertCash!
 Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
 
 ## The Future is Private
 
-Privacy Coin represents the future of blockchain privacy: a world where users control their financial data, where transactions are confidential by default, and where privacy and performance coexist seamlessly on Solana.
+MertCash represents the future of blockchain privacy: a world where users control their financial data, where transactions are confidential by default, and where privacy and performance coexist seamlessly on Solana.
 
-With Solana's commitment to scalability and decentralization, combined with Privacy Coin's privacy-first approach, we're building the foundation for truly private, decentralized finance.
+With Solana's commitment to scalability and decentralization, combined with MertCash's privacy-first approach, we're building the foundation for truly private, decentralized finance.
 
 ### Thanks ❤️
 
 <div align="center">
-  <a href="https://github.com/Privacy Coin/Privacy Coin/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Privacy Coin/Privacy Coin" width="100%" />
+  <a href="https://github.com/MertCash/MertCash/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=MertCash/MertCash" width="100%" />
   </a>
 </div>
 
@@ -361,7 +361,7 @@ With Solana's commitment to scalability and decentralization, combined with Priv
 
 - [Solana Official Documentation](https://docs.solana.com/)
 - [Zero-Knowledge Proofs Explained](https://z.cash/technology/zksnarks/)
-- [Privacy Coin Network Documentation](#) (Coming soon)
+- [MertCash Network Documentation](#) (Coming soon)
 - [Solana Developer Resources](https://solana.com/developers)
 - [Privacy-Preserving Cryptocurrencies Research](https://crypto.stanford.edu/)
 - [SPL Token Documentation](https://spl.solana.com/token)
@@ -370,19 +370,19 @@ With Solana's commitment to scalability and decentralization, combined with Priv
 
 ## Security & Audits
 
-Privacy and security are paramount. Privacy Coin undergoes regular security audits by leading blockchain security firms. For security researchers, please see our [SECURITY.md](./SECURITY.md) for responsible disclosure.
+Privacy and security are paramount. MertCash undergoes regular security audits by leading blockchain security firms. For security researchers, please see our [SECURITY.md](./SECURITY.md) for responsible disclosure.
 
 ## Community
 
 Join our growing community of privacy advocates and developers:
 
-- **Discord**: [discord.gg/Privacy Coin](https://discord.gg/Privacy Coin)
-- **Twitter**: [@Privacy Coin](https://twitter.com/Privacy Coin)
-- **Forum**: [forum.Privacy Coin.com](https://forum.Privacy Coin.com)
-- **Telegram**: [t.me/Privacy Coin](https://t.me/Privacy Coin)
+- **Discord**: [discord.gg/MertCash](https://discord.gg/MertCash)
+- **Twitter**: [@MertCash](https://twitter.com/MertCash)
+- **Forum**: [forum.MertCash.com](https://forum.MertCash.com)
+- **Telegram**: [t.me/MertCash](https://t.me/MertCash)
 
 ## Acknowledgments
 
-Privacy Coin builds on the groundbreaking work of privacy-focused cryptocurrencies like Zcash and combines it with Solana's industry-leading performance. Special thanks to the Solana Foundation, the zero-knowledge cryptography research community, and all our contributors.
+MertCash builds on the groundbreaking work of privacy-focused cryptocurrencies like Zcash and combines it with Solana's industry-leading performance. Special thanks to the Solana Foundation, the zero-knowledge cryptography research community, and all our contributors.
 
-**Privacy is a right, not a privilege. Build with Privacy Coin.**
+**Privacy is a right, not a privilege. Build with MertCash.**
